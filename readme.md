@@ -1,0 +1,1 @@
+This is Elea's first git project!
